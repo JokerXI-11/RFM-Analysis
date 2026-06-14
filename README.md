@@ -18,7 +18,7 @@ UCI Machine Learning Repository - Online Retail Dataset
 
 ## 项目文件
 - `OnlineRetail1.csv` - 原始交易数据
-- `电商用户精细化分群（RFM模型）.ipynb` - 完整分析代码（请替换为你的实际文件名）
+- `电商用户精细化分群（RFM模型）.ipynb` - 完整分析代码
 - `rfm_segments_result.csv` - 用户分群结果
 - `RFM_Dashboard.png` - 分析仪表盘
 
